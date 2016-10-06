@@ -38,6 +38,8 @@ More info about List -> https://docs.oracle.com/javase/7/docs/api/java/util/List
 
 More info about Set -> http://docs.oracle.com/javase/tutorial/collections/interfaces/set.html
 
+More info about Map -> http://docs.oracle.com/javase/tutorial/collections/interfaces/map.html
+
 ## Authors
 
 * **Niki Izvorski ** - *Initial work*
