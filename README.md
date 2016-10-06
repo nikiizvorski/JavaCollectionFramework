@@ -2,7 +2,7 @@
 Project showing examples of using the JCF and some of the BIG-O ( Searching, Sorting ) etc.
 
 We would start with basic examples how to use each one of them in diffrent classes and after a while we
-would implement other techiques and methods.
+would implement other techiques and methods. You can find more info inside the classes.
 
 ![Alt text](http://pedrocardoso.eu/wp-content/uploads/2010/12/collectionsImpl.png "Java Cheat Sheet")
 <br>
@@ -35,6 +35,8 @@ InteliJ Community Edition
 ## More Info
 
 More info about List -> https://docs.oracle.com/javase/7/docs/api/java/util/List.html
+
+More info about Set -> http://docs.oracle.com/javase/tutorial/collections/interfaces/set.html
 
 ## Authors
 
