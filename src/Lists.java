@@ -18,7 +18,7 @@ public class Lists {
         //Add Element with Index
         fruit.add(1, "Watermellon");
 
-        //Sorting the List with Collection by Using Comparator
+        //Sorting the List with CollectionA by Using Comparator
         fruit.sort(new Comparator<String>() {
             @Override
             public int compare(String o1, String o2) {
