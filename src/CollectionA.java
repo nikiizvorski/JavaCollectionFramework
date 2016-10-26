@@ -1,19 +1,4 @@
-import java.util.Map;
-import java.util.Set;
-import java.util.SortedMap;
-import java.util.SortedSet;
-import java.util.TreeMap;
-import java.util.TreeSet;
-
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Iterator;
-import java.util.LinkedHashMap;
-import java.util.LinkedHashSet;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 /**
  * Created by NIKI on 10/5/2016.
@@ -31,6 +16,16 @@ public class CollectionA {
         linked.add("four");
 
         //print collection
+        showMe(linked);
+
+        //print shuffle collection
+        Collections.shuffle(linked);
+
+        showMe(linked);
+
+        //print Reversed collection
+        Collections.reverse(linked);
+
         showMe(linked);
 
         //ArrayList Collection
@@ -104,6 +99,7 @@ public class CollectionA {
         //print LinkedMap Collection
         showMe(linkedHashMap.keySet());
         showMe(linkedHashMap.values());
+
     }
 
     //printing the diffrent collections
