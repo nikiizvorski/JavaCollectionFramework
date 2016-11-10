@@ -78,7 +78,7 @@ public class GenericA {
 
         GenericsType<Integer> g3 = new GenericsType<>();
         g3.set(1);
-        
+
 
         boolean isEqual = GenericA.isEqual(g1, g2);
         //above statement can be written simply as
